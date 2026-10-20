@@ -39,7 +39,7 @@
     <color name="theme_passcode_color">#716563</color>
     <color name="theme_passcode_keypad_color">#716563</color>
     <color name="theme_passcode_keypad_pressed_color">#A39795</color>
-    <color name="theme_passcode_keypad_background_color">#FFFFFF</color>
+    <color name="theme_passcode_keypad_background_color">#FAF7F2</color>
     <color name="theme_passcode_keypad_pressed_background_color">#99FFFFFF</color>
     <color name="theme_passcode_pattern_line_color">#FFFFFF</color>
 
