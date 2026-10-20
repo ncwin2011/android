@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 헤더 / 텍스트 (iOS HeaderStyle-Main, MainViewStyle-Primary, SectionTitleStyle-Main) -->
+    <color name="theme_header_color">#3C3C3C</color>
+    <color name="theme_section_title_color">#474747</color>
+    <color name="theme_title_color">#4F4F4F</color>
+    <color name="theme_title_pressed_color">#4F4F4F</color>
+    <color name="theme_paragraph_color">#4F4F4F</color>
+    <color name="theme_paragraph_pressed_color">#4F4F4F</color>
+    <color name="theme_description_color">#4F4F4F</color>
+    <color name="theme_description_pressed_color">#4F4F4F</color>
+    <color name="theme_feature_primary_color">#4D4D4D</color>
+    <color name="theme_feature_primary_pressed_color">#4D4D4D</color>
+    <color name="theme_feature_browse_tab_color">#3C3C3C</color>
+    <color name="theme_feature_browse_tab_focused_color">#3C3C3C</color>
+
+    <!-- 배경: iOS passcodeBgImage 의 실제 색(#FAF7F2) 사용 -->
+    <color name="theme_background_color">#FAF7F2</color>
+    <color name="theme_chatroom_background_color">#FAF7F5</color>
+    <color name="theme_passcode_background_color">#FFF5C0</color>
+    <color name="theme_header_cell_color">#FAF7F2</color>
+    <color name="theme_body_cell_color">#002B2B2B</color>
+    <color name="theme_body_cell_pressed_color">#144F4F4F</color>
+    <color name="theme_body_cell_border_color">#00FFFFFF</color>
+    <color name="theme_body_secondary_cell_color">#FFFFFF</color>
+    <color name="theme_maintab_cell_color">#FAF7F2</color>
+    <color name="theme_tab_lightbannerbadge_background_color">#4F4F4F</color>
+    <color name="theme_tab_bannerbadge_background_color">#4F4F4F</color>
+
+    <!-- 공유 / 알림 -->
+    <color name="theme_direct_share_color">#4D4D4D</color>
+    <color name="theme_direct_share_button_color">#FFFFFF</color>
+    <color name="theme_direct_share_background_color">#FFFFFF</color>
+    <color name="theme_notification_color">#4D4D4D</color>
+    <color name="theme_notification_background_color">#FFFFFF</color>
+    <color name="theme_notification_background_pressed_color">#F0F0F0</color>
+
+    <!-- 암호 잠금 -->
+    <color name="theme_passcode_color">#716563</color>
+    <color name="theme_passcode_keypad_color">#716563</color>
+    <color name="theme_passcode_keypad_pressed_color">#A39795</color>
+    <color name="theme_passcode_keypad_background_color">#FFFFFF</color>
+    <color name="theme_passcode_keypad_pressed_background_color">#99FFFFFF</color>
+    <color name="theme_passcode_pattern_line_color">#FFFFFF</color>
+
+    <!-- 채팅방 -->
+    <color name="theme_chatroom_bubble_me_color">#716563</color>
+    <color name="theme_chatroom_bubble_you_color">#716563</color>
+    <color name="theme_chatroom_unread_count_color">#716563</color>
+    <color name="theme_chatroom_input_bar_color">#4F4F4F</color>
+    <color name="theme_chatroom_input_bar_background_color">#FFFFFF</color>
+    <color name="theme_chatroom_input_bar_menu_icon_color">#272727</color>
+    <color name="theme_chatroom_input_bar_menu_button_color">#084F4F4F</color>
+    <color name="theme_chatroom_input_bar_send_icon_color">#444444</color>
+    <color name="theme_chatroom_input_bar_send_button_color">#FFFFFF</color>
+</resources>
